@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jacob Cooper, a Research Technician at the AudioLab, University of York.
+
 <!--
 **jacobtcoops/jacobtcoops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
